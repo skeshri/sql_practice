@@ -4,5 +4,5 @@ Query
 ```
 select column_name, data_type
 from INFORMATION_SCHEMA.COLUMNS
-where TABLE_NAME='films'
+where TABLE_NAME='table_name'
 ```
